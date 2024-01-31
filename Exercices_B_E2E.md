@@ -9,6 +9,6 @@ Implémenter ces tests en utilisant Selenium.
 
 ## Exercice 2
 
-Ajouter la possibilité de créer un compte et de se logger via JWT.
+Ajouter la possibilité de créer un compte et de se logger de manière sécurisée via JWT.
 
 Implémenter les tests pour évaluer les nouveaux scénarios.
