@@ -5,7 +5,7 @@
 **Etape 1**
 
 - Imaginer un mini projet de code
-- Définir ses fonctionalités.
+- Définir ses fonctionnalités.
 
 Par exemple : une fonction d'imputation de valeurs manquantes par différentes méthodes: constante, ffill, grouping, model-based.
 
@@ -37,7 +37,7 @@ Par exemple : une fonction d'imputation de valeurs manquantes par différentes m
 **Etape 1**
 
 - Imaginer un mini projet plus complexe
-- Définir ses fonctionalités
+- Définir ses fonctionnalités
 
 Par exemple : une fonction qui permet d'entraîner des modèles simples de sklearn, d'évaluer leur performance et d'en ressortir un rapport.
 
