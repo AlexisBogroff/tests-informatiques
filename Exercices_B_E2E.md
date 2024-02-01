@@ -2,6 +2,8 @@
 
 ## Exercice 1
 
+Ajouter le front-end en utilisant Flask
+
 Définir les scénarios de test E2E à implémenter.
 
 Implémenter ces tests en utilisant Selenium.
